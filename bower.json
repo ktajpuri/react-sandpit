@@ -1,0 +1,13 @@
+{
+  "name": "workspace",
+  "authors": [
+    "kamlesh tajpuri <ktajpuri@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
